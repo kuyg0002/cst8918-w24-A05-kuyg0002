@@ -4,6 +4,39 @@
 ## Prof: Robert McKenney
 # LAB-A05 Terraform Web Server
 
+
+# Steps with screenshoots I have taken in this lab:
+1. 
+![A screenshot of a computer Description automatically
+generated](./Screenshots/1. a05-architecture.png)
+
+2. 
+![A screenshot of a computer Description automatically
+generated](./Screenshots/1. after terraform plan.png)
+
+3. 
+![A screenshot of a computer Description automatically
+generated](./Screenshots/2. Before terraform apply.png)
+
+4. 
+![A screenshot of a computer Description automatically
+generated](./Screenshots/3. creating resources.png)
+
+5. 
+![A screenshot of a computer Description automatically
+generated](./Screenshots/4. after all resources created.png)
+
+6. 
+![A screenshot of a computer Description automatically
+generated](./Screenshots/5.from azure portal- all resources.png)
+
+7. 
+![A screenshot of a computer Description automatically
+generated](./Screenshots/6. my linux configuratin.png)
+
+8. 
+![A screenshot of a computer Description automatically
+generated](./Screenshots/7. after terraform destroy.png)
 # Background
 This hands-on lab activity will explore using Terraform to deploy a simple web server on Azure. We will complete it together during class.
 Prerequisites
@@ -92,7 +125,7 @@ provider "cloudinit" {
   # Configuration options
 }
 
-Initialize Terraform
+# Initialize Terraform
 You should now run terraform init in the terminal. Terraform will validate your code and attempt to install the referenced provider modules. If any errors are reported, read them carefully to resolve the conflict -- usually a typo in a name.
 4. Define resources
 With the basic setup complete, you can define the specific resources from your architecture diagram.
@@ -161,4 +194,3 @@ Use your college username when prompted for the labelPrefix variable.
 Due on Feb 9, 2024 11:59 PM
 Submit
 Text submission
-

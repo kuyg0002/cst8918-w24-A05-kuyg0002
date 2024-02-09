@@ -118,7 +118,6 @@ resource "azurerm_linux_virtual_machine" "webserver" {
   size                = "Standard_B1s"
   admin_username      = var.admin_username
   network_interface_ids = [azurerm_network_interface.webserver.id]
-  #admin_password = "Passw@rd1234!"
   disable_password_authentication = "true"
 
   os_disk {
