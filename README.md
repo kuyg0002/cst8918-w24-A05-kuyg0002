@@ -8,7 +8,7 @@
 # Steps with screenshoots I have taken in this lab:
 1. 
 ![A screenshot of a computer Description automatically
-generated](./Screenshots/1. a05-architecture.png)
+generated](./Screenshots/1. a05-architecture.png) {width="6.5in" height="3.89375in"}
 
 2. 
 ![A screenshot of a computer Description automatically
