@@ -8,11 +8,11 @@
 # Steps with screenshoots I have taken in this lab:
 1. 
 ![A screenshot of a computer Description automatically
-generated](./Screenshots/1. a05-architecture.png) {width="6.5in" height="3.89375in"}
-
+generated](./Screenshots/1.a05-architecture.png) 
 2. 
 ![A screenshot of a computer Description automatically
-generated](./Screenshots/1. after terraform plan.png)
+generated](./Screenshots/1.png){width="6.5in" height="3.89375in"}
+
 
 3. 
 ![A screenshot of a computer Description automatically
