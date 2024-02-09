@@ -28,15 +28,15 @@ generated](./Screenshots/5.png){width="6.5in" height="3.89375in"}
 
 6. From azure portal- all resources
 ![A screenshot of a computer Description automatically
-generated](./Screenshots/5.from azure portal- all resources.png){width="6.5in" height="3.89375in"}
+generated](./Screenshots/6.png){width="6.5in" height="3.89375in"}
 
 7. My linux configuratin
 ![A screenshot of a computer Description automatically
-generated](./Screenshots/6. my linux configuratin.png){width="6.5in" height="3.89375in"}
+generated](./Screenshots/7.png){width="6.5in" height="3.89375in"}
 
 8. After terraform destroy
 ![A screenshot of a computer Description automatically
-generated](./Screenshots/7. after terraform destroy.png){width="6.5in" height="3.89375in"}
+generated](./Screenshots/8.png){width="6.5in" height="3.89375in"}
 
 # Background
 This hands-on lab activity will explore using Terraform to deploy a simple web server on Azure. We will complete it together during class.
