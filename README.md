@@ -6,37 +6,38 @@
 
 
 # Steps with screenshoots I have taken in this lab:
-1. 
-![A screenshot of a computer Description automatically
-generated](./Screenshots/1.a05-architecture.png) 
-2. 
+1. a05-architecture.png
 ![A screenshot of a computer Description automatically
 generated](./Screenshots/1.png){width="6.5in" height="3.89375in"}
 
-
-3. 
+2. After terraform plan stage
 ![A screenshot of a computer Description automatically
-generated](./Screenshots/2. Before terraform apply.png)
+generated](./Screenshots/1.png){width="6.5in" height="3.89375in"}
 
-4. 
+3. Before terraform apply from Azure portal
 ![A screenshot of a computer Description automatically
-generated](./Screenshots/3. creating resources.png)
+generated](./Screenshots/3.png){width="6.5in" height="3.89375in"}
 
-5. 
+4.While resource creating
 ![A screenshot of a computer Description automatically
-generated](./Screenshots/4. after all resources created.png)
+generated](./Screenshots/4.png){width="6.5in" height="3.89375in"}
 
-6. 
+5.After terraform apply
 ![A screenshot of a computer Description automatically
-generated](./Screenshots/5.from azure portal- all resources.png)
+generated](./Screenshots/5.png){width="6.5in" height="3.89375in"}
 
-7. 
+6.From azure portal- all resources
 ![A screenshot of a computer Description automatically
-generated](./Screenshots/6. my linux configuratin.png)
+generated](./Screenshots/5.from azure portal- all resources.png){width="6.5in" height="3.89375in"}
 
-8. 
+7.My linux configuratin
 ![A screenshot of a computer Description automatically
-generated](./Screenshots/7. after terraform destroy.png)
+generated](./Screenshots/6. my linux configuratin.png){width="6.5in" height="3.89375in"}
+
+8. After terraform destroy
+![A screenshot of a computer Description automatically
+generated](./Screenshots/7. after terraform destroy.png){width="6.5in" height="3.89375in"}
+
 # Background
 This hands-on lab activity will explore using Terraform to deploy a simple web server on Azure. We will complete it together during class.
 Prerequisites
